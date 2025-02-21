@@ -10,7 +10,7 @@
 	</parent>
 
 	<groupId>com.neo4j.examples</groupId>
-	<artifactId>sdn6-movies</artifactId>
+	<artifactId>sdn6-movies-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>SDN6 Movies</name>
 	<description>Demo web project for Spring Data using Spring Boot and Neo4j</description>
